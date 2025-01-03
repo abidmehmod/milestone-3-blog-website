@@ -16,19 +16,19 @@ const Footer = () => {
       <div className="container mx-auto px-4 md:px-8 lg:px-12">
         <div className="flex flex-col lg:flex-row justify-between items-center mb-8">
           <div className="flex gap-4 mb-4 lg:mb-0">
-            <a href="https://x.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/" target="_blank" rel="noopener noreferrer">
               <FaTwitter size={30} className="text-blue-400 hover:text-blue-600 transition duration-300 ease-in-out" />
             </a>
-            <a href="https://www.linkedin.com/i" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
               <FaLinkedin size={30} className="text-blue-700 hover:text-blue-900 transition duration-300 ease-in-out" />
             </a>
-            <a href="https://www.youtube.com/@altarget="_blank" rel="noopener noreferrer">
+            <a href="https://www.youtube.com/"_blank" rel="noopener noreferrer">
               <FaYoutube size={30} className="text-red-600 hover:text-red-800 transition duration-300 ease-in-out" />
             </a>
-            <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/" target="_blank" rel="noopener noreferrer">
               <FaFacebook size={30} className="text-blue-600 hover:text-blue-800 transition duration-300 ease-in-out" />
             </a>
-            <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.instagram.com/" target="_blank" rel="noopener noreferrer">
               <FaInstagram size={30} className="text-pink-600 hover:text-pink-800 transition duration-300 ease-in-out" />
             </a>
           </div>
